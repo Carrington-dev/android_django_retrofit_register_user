@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Autheply</string>
+    <string name="prompt_email">Enter your email</string>
+    <string name="prompt_password">Enter your password</string>
+    <string name="action_sign_in_short">Sign in now</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Sign Up Now</string>
+    <string name="username">Enter your username</string>
+    <string name="prompt_firstName">Enter your first name</string>
+    <string name="prompt_lastName">Enter your last name</string>
+</resources>
